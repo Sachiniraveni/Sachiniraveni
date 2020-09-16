@@ -55,25 +55,8 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-
-
 </details>
 
-### Details:
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Sachin's Github Stats" src="https://sachiniraveni.vercel.app/api?username=Sachiniraveni&show_icons=true&hide_border=true" />
-
-</details>
-
-[twitter]: https://twitter.com/Code__blooded_
-[instagram]: https://www.instagram.com/code_.blooded/
-[linkedin]: https://www.linkedin.com/in/sachin-iraveni-949ab6148/
-[Medium]: https://medium.com/@code_.blooded
 
 
 
