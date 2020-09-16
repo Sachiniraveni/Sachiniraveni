@@ -128,4 +128,10 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/code_.blooded/
 [linkedin]: https://www.linkedin.com/in/sachin-iraveni-949ab6148/
 [Medium]: https://medium.com/@code_.blooded
->>>>>>> 123d0b5... First commit
+
+
+### Details:
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="Sachin Iraveni's Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PrashantGaikwad-iOS&show_icons=true&hide_border=true" />
+</details>
