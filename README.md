@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - [Integrating Prometheus and Grafana on top of Kubernetes and making their data permanent](https://www.linkedin.com/pulse/integrati-prometheus-grafana-top-kubernetes-making-data-iraveni/?trackingId=UjRSenVVRXuiE8ol2Jxj8A%3D%3D)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more tech related posts follow me on ...](https://www.linkedin.com/in/sachin-iraveni-949ab6148/)
+➡️ [more tech related posts follow me on LinkedIn ...https://www.linkedin.com/in/sachin-iraveni-949ab6148/ ]
 
 ---
 
