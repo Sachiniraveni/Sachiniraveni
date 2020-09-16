@@ -41,21 +41,46 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Kubernetes.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Kubernetes.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Jenkins.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Jenkins.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Docker.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Docker.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Git.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Git.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Ansible.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Ansible.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/#EE0000.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/#EE0000.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/MySQL.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/MySQL.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Google cLoud.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Google cLoud.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Linux.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Linux.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Java.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Java.svg" />
+
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Grafana.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Grafana.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Prometheus.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Prometheus.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Elasticsearch.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Elasticsearch.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Elasticsearch.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Python.svg" />
 
 
 
