@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Configuration Management.
 - 🌱 I’m currently learning AWS Cloud.
+- 👯 I've hands-on experience in automating and optimizing mission-critical deployments.
 - 👯 I'm Proficient with Container orchestration tools and in developing CI/CD pipelines
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - 📫 How to reach me: iraveni182@gmail.com
