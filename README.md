@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I'm Proficient with Container orchestration tools and in developing CI/CD pipelines
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - 📫 How to reach me: iraveni182@gmail.com
-- ⚡ Fun fact: I love to play Digital Games and watch sports.
+- ⚡ Fun fact: I love to play Digital Games.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/emzqr1jmqa8llh49rakqlo868)
