@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## DevOps and Cloud Enthusiast.
 
 - 🔭 I’m currently working on a Configuration Management.
-- 🌱 I’m currently learning AWS Cloud.
+- 🌱 I’m currently learning AWS Cloud services and monitoring tools.
 - 👯 I've hands-on experience in automating and optimizing mission-critical deployments.
 - 👯 I'm Proficient with Container orchestration tools and in developing CI/CD pipelines
-- 🥅 2020 Goals: Contribute to Open Source projects.
+- 🥅 2021 Goals: Contribute to Open Source projects.
 - 📫 How to reach me: iraveni182@gmail.com
 - ⚡ Fun fact: I love to play Digital Games.
 
