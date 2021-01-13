@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+
 
 <br />
 
@@ -50,6 +47,8 @@ Here are some ideas to get you started:
 - [Build CI/CD pipeline using Jenkins File Approach](https://medium.com/@code_.blooded/build-ci-cd-pipeline-using-jenkins-file-approach-4125b9a0653c)
 - [CI/CD pipeline using Jenkins, deploy on top of kubernetes as pod and making data persistent](https://medium.com/@code_.blooded/ci-cd-pipeline-using-jenkins-deploy-on-top-of-kubernetes-as-pod-and-making-data-persistent-671cccebb71f)
 - [Integrating Prometheus and Grafana on top of Kubernetes and making their data permanent](https://www.linkedin.com/pulse/integrati-prometheus-grafana-top-kubernetes-making-data-iraveni/?trackingId=UjRSenVVRXuiE8ol2Jxj8A%3D%3D)
+- [Creating infra on AWS using terraform for running docker containers](https://github.com/Sachiniraveni/terraform-vpc)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more tech related posts follow me on LinkedIn ...https://www.linkedin.com/in/sachin-iraveni-949ab6148/ ]
