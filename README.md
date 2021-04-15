@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## DevOps and Cloud Enthusiast.
 
 - 🔭 I’m currently working on Infrastructure as code .
-- 🌱 I’m currently learning AWS Cloud and monitoring tools.
+- 🌱 I’m currently learning AWS services and monitoring tools.
 - 👯 I've hands-on experience in automating and optimizing mission-critical containerized deployments.
 - 👯 I'm Proficient with Container orchestration tools and in developing CI/CD pipelines.
 - 🥅 2021 Goals: Learn more and become a better professional.
