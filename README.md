@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## Cloud & DevOps Engineer.
 
-- 🔭 I’m currently working on Infrastructure as code .
+- 🔭 I’m currently working on OpenTelemetry .
 - 🌱 I’m currently learning Cloud security and monitoring tools.
 - 👯 I've hands-on experience in automating and optimizing mission-critical containerized deployments.
 - 👯 I'm Proficient with Container orchestration tools and in developing CI/CD pipelines.
-- 🥅 2021 Goals: Learn more and become a better professional.
+- 🥅 2026 Goals: Learn more and become a better professional.
 - 📫 How to reach me: iraveni182@gmail.com
 - ⚡ Fun fact: I love to play video Games.
 
